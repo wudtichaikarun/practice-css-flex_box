@@ -3,6 +3,9 @@
 ### Credit the original author by Jonas Schmedtman
 [Advanced CSS and Sass: Take Your CSS to the Next Level!](https://www.udemy.com/advanced-css-and-sass/).
 
+### Example project
+[practice-sass-flex_box](https://practice-css-flexbox.firebaseapp.com)
+
 ### install project
 ```
 //clone this project
